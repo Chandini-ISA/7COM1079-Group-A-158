@@ -1,0 +1,2 @@
+method,n,estimate_r,conf_low,conf_high,p_value_two_sided,alternative
+pearson,10001,-0.6695251410006715,-1,-0.6603487429421122,0,less

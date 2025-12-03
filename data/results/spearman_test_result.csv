@@ -1,0 +1,2 @@
+method,n,rho,conf_low,conf_high,p_value_two_sided,alternative
+spearman,10001,-0.7441213954986315,NA,NA,0,two.sided

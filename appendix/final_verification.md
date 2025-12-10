@@ -6,3 +6,7 @@ Santosh QA: Verified all appendix files, including R code and GitHub log, are co
 
 
 
+Vikas: Verified that final.docx includes correct Figure 1 and Figure 2 captions and proper image embedding. (03 Dec 2025)
+
+
+

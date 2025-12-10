@@ -6,3 +6,7 @@ Santosh: Cleaned outdated instructions from README and added clear steps on how 
 
 
 
+Vikas: Added guidance on using .gitignore for large temporary files and clarified which outputs should not be tracked.
+
+
+

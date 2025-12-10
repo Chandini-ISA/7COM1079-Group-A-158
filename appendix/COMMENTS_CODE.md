@@ -6,3 +6,7 @@ Santosh: Added summary of Analysis.R structure (ingest, clean, plot, statistical
 
 
 
+Vikas: Added usage notes for Analysis.R including required libraries and execution command (Rscript scripts/Analysis.R).
+
+
+

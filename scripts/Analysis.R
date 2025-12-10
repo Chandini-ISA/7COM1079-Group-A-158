@@ -231,3 +231,6 @@ write_csv(lm_glance, lm_model_out)
 message("Linear model outputs saved to: ", lm_coeff_out, " and ", lm_model_out)
 
 message("Analysis.R complete — cleaned data, results and two required plots saved.")
+
+
+# Gopi: Reanalysis check completed — verified input paths and summarisation steps (03 Dec 2025)

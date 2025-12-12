@@ -8,6 +8,10 @@ Gayathri: Updated README to include clarification on project objectives and data
 
 
 
+Chandini: Consolidated project documentation and ensured README reflects the final analysis workflow and file structure.
+
+
+
 
 
 Gopi: Performed minor repo cleanup by removing temporary files and ensuring folder structure documentation is up to date.

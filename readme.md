@@ -4,6 +4,8 @@ This project investigates whether mileage is significantly correlated with the r
 
 
 
+Gayathri: Updated README to include clarification on project objectives and dataset context for improved documentation consistency.
+
 
 
 
